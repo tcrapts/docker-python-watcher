@@ -14,3 +14,4 @@ docker-compose build
 ```sh
 docker-compose up
 ```
+Every addition, deletion or modication of a file in a watched directory will be logged to the console.
