@@ -1,5 +1,5 @@
 # docker-python-wacher
-This repository provides a reference for watching files on a filesystem (Windows or Linux) using Docker. 
+This repository provides a reference for watching files on a filesystem (Windows or Linux) using Docker and Python. 
 
 ## Usage
 ### Define watched directories
